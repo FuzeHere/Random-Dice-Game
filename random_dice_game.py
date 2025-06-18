@@ -11,4 +11,4 @@ while True:
         print("Okay see u next game ^^")
         break
     else:
-        print("Invalid Choice, Try Again")
+        print("Invalid Choice, Try Again With y/n!")
