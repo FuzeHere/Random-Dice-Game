@@ -5,6 +5,7 @@ while True:
     if ask == "y":
         roll_1 = random.randint(1, 6)
         roll_2 = random.randint(1, 6)
+        total = r1 + r2
         print(f"{roll_1}, {roll_2}")
     elif ask == "n":
         print("Okay see u next game ^^")
