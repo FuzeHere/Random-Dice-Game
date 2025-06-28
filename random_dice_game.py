@@ -1,4 +1,4 @@
-mport random
+port random
 
 while True:
     ask = input("Do you want roll the dice? (y/n): ").lower()
